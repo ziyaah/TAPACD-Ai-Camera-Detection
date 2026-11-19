@@ -1,0 +1,10 @@
+venv/
+runs/
+captures/
+__pycache__/
+*.pyc
+*.jpg
+*.jpeg
+*.png
+*.pt
+*.zip
