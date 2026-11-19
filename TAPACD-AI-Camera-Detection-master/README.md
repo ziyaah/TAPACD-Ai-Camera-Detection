@@ -155,14 +155,4 @@ Open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ---
 
-## 👩‍💻 Author
-
-**Riza Shakkir**
-BCA Graduate · MCA Student at Jain University, Kerala
-
-- 💼 GitHub: [github.com/Rizashakkir](https://github.com/Rizashakkir)
-- 🔗 Trading Journal Project: [github.com/Rizashakkir/trading-journal](https://github.com/Rizashakkir/trading-journal)
-
----
-
 _Dataset collected manually in real environments. Model trained from scratch on custom annotated data._
